@@ -1,0 +1,6 @@
+test_images.csv
+test_labels.csv
+train_images.csv
+train_labels.csv
+Volcanoes_test.tar.gz
+Volcanoes_train.tar.gz
