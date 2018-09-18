@@ -74,4 +74,4 @@ def model(train_x, train_y, test_x, test_y, iterations=2000, learning_rate=0.5, 
     print('Testing Accuracy: ',(100 - np.mean(np.abs(testing_set_predictions - test_y))*100),'%')
 
 print('Training model...')
-model(train_x, train_y, test_x, test_y, iterations=20000, learning_rate=0.01, print_cost=True)
+model(train_x, train_y, test_x, test_y, iterations=50000, learning_rate=0.01, print_cost=True)

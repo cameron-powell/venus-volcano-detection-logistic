@@ -5,3 +5,4 @@ test_labels.csv
 Volcanoes_test.tar.gz
 Volcanoes_train.tar.gz
 venv/
+.vscode/
